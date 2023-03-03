@@ -1,0 +1,42 @@
+{
+  "imageUrl": "https://i.imgur.com/X3RNhhD.png",
+  "name": "Theodore Taylor",
+  "role": "Sr. Product Designer",
+  "matchingPercentage": 97,
+  "skillsSections": [
+    {
+      "type": "Top Hard Skills",
+      "skills": [
+        {
+          "name": "Figma",
+          "matchingPercentage": 100
+        },
+        {
+          "name": "Prototyping",
+          "matchingPercentage": 97
+        },
+        {
+          "name": "UX Wireframing",
+          "matchingPercentage": 100
+        }
+      ]
+    },
+    {
+      "type": "Top Soft Skills",
+      "skills": [
+        {
+          "name": "Mentorship",
+          "matchingPercentage": 88
+        },
+        {
+          "name": "Collaboration",
+          "matchingPercentage": 100
+        },
+        {
+          "name": "Empathy",
+          "matchingPercentage": 82
+        }
+      ]
+    }
+  ]
+}

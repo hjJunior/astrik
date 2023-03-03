@@ -1,12 +1,10 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
+import UserCard from "./components/User/UserCard";
+import user from "./assets/user.json";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
-    <div className="App">
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
+    <div className="flex justify-center p-8">
+      <UserCard user={user} />
     </div>
   );
 }
